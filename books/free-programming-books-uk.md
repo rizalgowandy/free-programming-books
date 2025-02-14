@@ -14,7 +14,7 @@
 
 ### <a id="c-and-cpp"></a>C and C++
 
-* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
+* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr/C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко (PDF)
 
 
 ### ClojureScript
@@ -44,7 +44,7 @@
 
 ### PHP
 
-* [Symfony: Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
+* [Symfony: Швидкий старт](https://symfony.com.ua/doc/current/quick_tour/index.html) - Symfony SAS
 
 
 ### Python

@@ -19,7 +19,6 @@
     * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
@@ -31,11 +30,12 @@
 * [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Shell](#shell)
 * [UML](#uml)
-* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](#unabhängig-von-der-programmiersprache)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -66,6 +66,7 @@
 
 ### C
 
+* [C-HowTo: Programmieren lernen mit der Programmiersprache C](https://www.c-howto.de) - Elias Fischer (HTML)
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
@@ -93,7 +94,7 @@
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*
 
 
 ### Git
@@ -119,6 +120,7 @@
 ### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
+* [Das kleine Buch der HTML-/CSS-Frameworks](https://github.com/frontenddogma/html-css-frameworks) – Jens Oliver Meiert
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) (Online)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite) (Online)
@@ -159,8 +161,8 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
-* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/zdi/docs/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
 
 
@@ -168,11 +170,6 @@
 
 * [Debian GNU/Linux Anwenderhandbuch](https://debiananwenderhandbuch.de) - Frank Ronneburg (HTML)
 * [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
-
-
-### Mathematik
-
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Meta-Lists
@@ -210,18 +207,17 @@
 ### Python
 
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
-* [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
-* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in process)*
+* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in Bearbeitung)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) *(:construction: in Bearbeitung)*
 
 
-#### R
+### R
 
 * [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
 
@@ -238,6 +234,11 @@
 ### Rust
 
 * [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/) - Steve Klabnik, Carol Nichols, Übersetzung durch die Rust-Gemeinschaft (HTML)
+
+
+### Sage
+
+* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Scilab

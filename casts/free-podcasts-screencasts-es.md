@@ -59,6 +59,7 @@
 
 ### Software Libre
 
+* [Atareao con Linux](https://atareao.es/podcast) - Lorenzo Carbonell (podcast)
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
 * [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
@@ -67,12 +68,13 @@
 ### Variados
 
 * [Code on the Rocks](http://codeontherocks.fm) - Jorge Barroso, Jorge Lería, Davide Mendolia (podcast)
-* [Codely.TV screencasts](https://codely.tv/blog/screencasts/) - Codely.TV (screencasts)
+* [Codely.TV screencasts](https://codely.com/blog/category/screencasts) - Codely.TV (screencasts)
 * [Cosas de Internet](https://cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast)
 * [Día30](https://www.dia30.mx) - Víctor Velázquez, Mariana Ruiz (podcast)
 * [Digital. Innovation. Engineers.](https://anchor.fm/mimacom) - Mimacom (podcast)
 * [Doomling & Chill](https://anchor.fm/bel-rey) - Bel Rey (podcast)
 * [Educando Geek](https://educandogeek.github.io) - Juanjo Gurillo (podcast)
+* [Entre Dev y Ops](https://www.entredevyops.es) - Ignasi Fosch, Javier Avellano, Eduardo Bellido, David Acacio (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) - Francisco Javier Gárate Soto, Juan Leiva (podcast)
 * [Hijos de la Web](https://www.ivoox.com/podcast-hijos-web_sq_f1588708_1.html) - Hector Trejo, Juan José Gutierrez, Óscar Miranda (podcast)
 * [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) - Manuel Terrón, Philippe Rochette (podcast)

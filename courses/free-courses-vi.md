@@ -8,8 +8,8 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#csharp)
-* [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
+* [C#](#a-idcsharpac)
+* [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -33,6 +33,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unity](#unity)
+* [Web Development](#web-development)
 * [Wordpress](#wordpress)
 * [XML](#xml)
 
@@ -97,6 +98,7 @@
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
+* [Lập trình C# - NET Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-) - XuanThuLab
 * [Lập trình C# cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html) - TEDU
 * [Lập trình C# Winform cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1y2T7yK--YZJHCsU7LZVzBS) - Kteam
 * [Lập trình game Caro với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1yCEzvLavt8jD4daqpejzwN) - Kteam
@@ -139,6 +141,7 @@
 * [HTML](https://www.codehub.com.vn/HTML) - Codehub
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
+* [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - Nguyen Van Linh (ZendVN)
 * [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 
@@ -181,7 +184,7 @@
 
 ### Machine-Learning
 
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp (:construction: *in process*)
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
 
 
 ### MongoDB
@@ -255,6 +258,7 @@
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
 * [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
 * [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
+* [SQL](https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN) - J2Team
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 
 
@@ -298,6 +302,14 @@
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
+
+
+### Web Development
+
+* [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
+* [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
+* [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
+* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
 
 
 ### Wordpress
